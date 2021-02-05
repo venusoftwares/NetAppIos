@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\bin\Debug\netstandard2.0\NetAdmin.deps.json
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\bin\Debug\netstandard2.0\NetAdmin.dll
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\bin\Debug\netstandard2.0\ref\NetAdmin.dll
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\bin\Debug\netstandard2.0\NetAdmin.pdb
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\NetAdmin.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\XamWebView.xaml.g.cs
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\NetAdmin.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\NetAdmin.AssemblyInfo.cs
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\NetAdmin.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\NetAdmin.dll
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\ref\NetAdmin.dll
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\NetAdmin.pdb
+C:\Users\HP\source\repos\NetAdmin\NetAdmin\obj\Debug\netstandard2.0\SplashScreen.xaml.g.cs
